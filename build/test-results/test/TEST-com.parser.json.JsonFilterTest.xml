@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.parser.json.JsonFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-21T04:55:09" hostname="Agastyas-MacBook-Air.local" time="0.094">
+  <properties/>
+  <testcase name="testGetFilteredJSON" classname="com.parser.json.JsonFilterTest" time="0.094"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
